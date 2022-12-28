@@ -9,6 +9,6 @@ public class hiController {
     @GetMapping("/hi")
     @RequestMapping("/hi")
     public String hi(){
-        return "hi spring boot!";
+        return "hi spring boot! github02";
     }
 }
